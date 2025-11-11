@@ -12,6 +12,6 @@ public class ItemPedido
 
   public override string ToString()
   {
-    return $"{Produto.Nome} | Qtd: {Quantidade} | Total: R$ {TotalItem: F2}"  
-    }
+    return $"{Produto.Nome} | Qtd: {Quantidade} | Total: R$ {TotalItem:F2}";
+  }
 }
