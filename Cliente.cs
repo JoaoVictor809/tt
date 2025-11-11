@@ -1,9 +1,9 @@
-public class cliente
+public class Cliente
 {
   public int Codigo { get; set; }
   public string Nome { get; set; }
 
-  public cliente(int codigo, string nome)
+  public Cliente(int codigo, string nome)
   {
     Codigo = codigo;
     Nome = nome;  
