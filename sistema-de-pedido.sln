@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main.", "main..csproj", "{9FDE7A71-FA55-6396-8AEF-02B48AA8E816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema-de-pedido", "sistema-de-pedido.csproj", "{9FDE7A71-FA55-6396-8AEF-02B48AA8E816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
